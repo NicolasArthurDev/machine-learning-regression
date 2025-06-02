@@ -2,6 +2,7 @@
 
 Este projeto faz parte dos meus estudos em **Inteligência Artificial** e **Machine Learning**, com o objetivo de compreender como funcionam os modelos de regressão e o uso de bibliotecas Python voltadas à ciência de dados.
 
+![image](https://github.com/user-attachments/assets/5e9a293e-29db-4ca2-94fe-1636d12d456d)
 
 ## 📌 Sobre o projeto
 
