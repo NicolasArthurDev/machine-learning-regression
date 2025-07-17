@@ -1,4 +1,4 @@
-# 🍕 pizza-ml-regression
+# 🍕 machine-learning-regression
 
 Este projeto faz parte dos meus estudos em **Inteligência Artificial** e **Machine Learning**, com o objetivo de compreender como funcionam os modelos de regressão e o uso de bibliotecas Python voltadas à ciência de dados.
 
